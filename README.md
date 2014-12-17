@@ -9,15 +9,15 @@ Further Expense reporter provide features like Secure Login , Backup and Email ,
 and there Custom Category, Currency setting and Login Enable/Disable feature.
 
 <h2>Features</h2>
-1) Add/ Update/ Delete Expenses<br>
-2) Daily Expense Report<br>
-3) Weekly Expense Report<br>
-4) Monthly Expense Report<br>
-5) Yearly Expense Report<br>
-6) Category wise Expense Report<br>
-7) Date wise Expense Report<br>
-8) Password protection enable/disable<br>
-9) PI-CHART of Expense Reports<br>
+01) Add/ Update/ Delete Expenses<br>
+02) Daily Expense Report<br>
+03) Weekly Expense Report<br>
+04) Monthly Expense Report<br>
+05) Yearly Expense Report<br>
+06) Category wise Expense Report<br>
+07) Date wise Expense Report<br>
+08) Password protection enable/disable<br>
+09) PI-CHART of Expense Reports<br>
 10) Export Backup<br>
 11) Import Backup<br>
 12) Add Category<br>
